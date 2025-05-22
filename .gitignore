@@ -26,3 +26,5 @@ python_work/data/news_features.csv
 *.log
 .DS_Store
 Thumbs.db
+
+./server/.env
